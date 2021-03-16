@@ -10,6 +10,9 @@ nav{
 h2{
     background-color: blue; text-align: center
 }
+h3{
+    color: blue; text-align: center
+}
 p{
     font-family: inherit; font-size: 110%;text-align: left;color: black
 }
