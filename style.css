@@ -8,13 +8,18 @@ nav{
     text-align: center; font-family: serif; font-size: 120%
 }
 h2{
-    background-color: blue; text-align: center
+    background-color: blue; text-align: center; color: white
 }
 h3{
     color: blue; text-align: center
 }
 p{
-    font-family: inherit; font-size: 110%;text-align: left;color: black
+    font-family: inherit; font-size: 110%;text-align: left; color: black;
+    background-color: lightgray;
+    width: 500px;
+    border:10px blue;
+    padding: 30px;
+    margin: 15px;
 }
 video{
         width:1200px; height:600px;
