@@ -14,10 +14,9 @@ h3{
     color: blue; text-align: center
 }
 p{
-    font-family: inherit; font-size: 110%;text-align: left; color: black;
     background-color: lightgray;
     width: 500px;
-    border:10px blue;
+    border: 10px solid blue;
     padding: 30px;
     margin: 15px;
 }
