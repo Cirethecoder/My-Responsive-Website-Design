@@ -8,6 +8,7 @@ nav{
     text-align: center; font-family: serif; font-size: 120%; 
 }
 h2{
+    text-align: center;
     background-color: blue;
     width: 500px;
     color: white;
